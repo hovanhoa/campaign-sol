@@ -1,4 +1,13 @@
 {
+  "name": "lottery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "fs-extra": "^11.1.1",
     "ganache": "^7.9.1",
